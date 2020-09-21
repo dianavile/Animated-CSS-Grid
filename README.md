@@ -1,4 +1,4 @@
 # Animated-CSS-Grid
-SASS
+SASS-CSS Animation
 
 ![Animated-Grid-Style](https://github.com/dianavile/Animated-CSS-Grid/blob/master/Animated-Grid-Style.PNG)
